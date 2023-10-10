@@ -8,7 +8,7 @@
 \n                        { /* Ignore newlines */ }
 %%
 
-int main() {
+int main(){
     yylex();
     return 0;
 }
